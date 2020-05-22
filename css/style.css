@@ -139,12 +139,7 @@ header .menu{
     position: relative;
     z-index:10000;
 }
-/* burger menu */
-header .burger-menu{
-    color:#02DF82;
-    padding: 0 10px;
-    display: none;
-}
+
 /* banner */
 .banner .bg{
     height: 346px;
@@ -348,14 +343,8 @@ footer ul li span{
         flex-wrap: wrap;
         justify-content: center;
     }
-    header h1{
-        width: 100%;
-        display: flex;
-        justify-content: center;
-    }
     header .menu{
         width: 100%;
-        display: flex;
         justify-content: space-evenly;
     }
     /* li變直向 */
